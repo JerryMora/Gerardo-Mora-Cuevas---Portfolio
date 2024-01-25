@@ -1,7 +1,10 @@
 Project: “Financial Risk analysis"
 By Gerardo Mora Cuevas
+
 Description
+
 This Project aimed to analyze and predict financial risks for a financial institution, integrating various skills from data manipulation to the implementation of machine learning models. Below are the key steps that were carried out:
+
 1.	Data Collection:
 
 	Real financial data sources were used to obtain relevant information about transactions, loans, payment histories, etc.
